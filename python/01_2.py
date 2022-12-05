@@ -1,4 +1,4 @@
-input = open("../inputs/01_2.txt", "r").read()
+input = open("../inputs/01_1.txt", "r").read()
 
 
 def build_elf_inventories(input):
