@@ -3,3 +3,4 @@ settings.json
 inputs*
 typescript*
 go*
+.DS_Store
